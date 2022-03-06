@@ -43,7 +43,7 @@ tail_includes:
     {% if page.author.link %}
       {% assign author_link = page.author.link %}
     {% elsif author_name == site.social.name %}
-      {% assign author_link = site.social.links[0] %}
+      {% assign author_link = site.social.links[1] %}
     {% endif %}
 
     {{ site.data.locales[lang].post.written_by }}

@@ -54,7 +54,7 @@ post:
   written_by: By
   posted: 게시
   updated: 업데이트
-  words: 단어
+  words: 글자
   pageview_measure: 조회
   read_time:
     unit: 분
@@ -70,7 +70,7 @@ post:
       title: 링크 복사하기
       succeed: 링크가 복사되었습니다!
   # pinned prompt of posts list on homepage
-  pin_prompt: 핀
+  pin_prompt: 고정됨
 
 # categories page
 categories:
