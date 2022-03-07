@@ -3,18 +3,18 @@
 # ----- Commons label -----
 
 layout:
-  post: 포스트
-  category: 카테고리
-  tag: 태그
+  post: POST
+  category: CATEGORY
+  tag: TAG
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: 홈
-  categories: 카테고리
-  tags: 태그
-  archives: 아카이브
-  about: 정보
+  home: HOME
+  categories: CATEGORIES
+  tags: TAGS
+  archives: ARCHIVES
+  about: ABOUT
 
 # the text displayed in the search bar & search results
 search:
@@ -45,8 +45,8 @@ meta: Powered by :PLATFORM with :THEME theme.
 not_found:
   statment: 해당 URL은 존재하지 않습니다.
   hint_template: :HEAD_BAK을 눌러 다시 찾거나 :ARCHIVES_PAGE에서 검색해 주세요.
-  head_back: 홈으로 돌아가기
-  archives_page: 아카이브 페이지
+  head_back: HOME
+  archives_page: ARCHIVES
 
 # ----- Posts related labels -----
 
@@ -62,8 +62,8 @@ post:
   relate_posts: 관련된 글
   share: 공유하기
   button:
-    next: 다음 글
-    previous: 이전 글
+    next: 다음 글의 주제는?
+    previous: 이전 글의 주제는?
     copy_code:
       succeed: 복사되었습니다!
     share_link:
