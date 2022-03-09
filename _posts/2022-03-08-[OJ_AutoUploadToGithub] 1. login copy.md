@@ -2,7 +2,7 @@
 title: 백준 코드 자동업로드 프로젝트 / 1. login
 date: 2022-03-08 00:10:00 + 0900
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+tags: [TAG]     # TAG names should alw`ays be lowercase
 ---
 
 ###1. fiddler를 이용해 boj에서 로그인을 할 때 id, pw가 어떤식으로 서버에 전송되는지 분석한다.
